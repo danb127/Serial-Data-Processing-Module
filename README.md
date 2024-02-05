@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Engineering Excellence" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Engineering Innovation" />
 </p>
+
 
 <h1 align="center">8-bit Arithmetic Logic Unit Design</h1>
 
