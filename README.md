@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">8-bit Arithmetic Logic Unit Design</h1>
+<h1 align="center">Serial Data Processing Module Project</h1>
 
 <div align="center">
   <i>Innovating digital design through FPGA and VHDL.</i>
